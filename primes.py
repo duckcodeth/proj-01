@@ -13,3 +13,5 @@ def print_next_prime(number):
         index += 1
         if is_prime(index):
             print(index)
+            
+""" this is comment line
